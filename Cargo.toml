@@ -1,0 +1,10 @@
+[package]
+name = "struxium"
+edition = "2024"
+rust-version = "1.94"
+homepage = "https://github.com/struxium/struxium"
+repository = "https://github.com/struxium/struxium"
+authors = ["struxium"]
+license = "AGPL-3.0"
+
+[dependencies]
